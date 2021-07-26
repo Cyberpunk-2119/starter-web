@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 
 ####Deployment
 
-This tests deployment and we are currently in the master branch.
+This tests deployment and we are currently in the test1 branch.
